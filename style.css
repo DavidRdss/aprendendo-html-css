@@ -1,0 +1,35 @@
+body{
+margin: 0;
+padding: 0;
+}
+.base{
+margin-top: -23px;
+height: 64px;
+}
+.conteudo-base{
+background-color: #94A868;
+display: flex;
+align-items: center;
+padding: 40px;
+}
+.conteudo-base h1{
+    padding: 0 20px;
+}
+.lista ul{
+    list-style: none;
+    display: flex;
+}
+.lista li {
+margin: 20px;
+font-weight: bold;
+font-size: 20px;
+
+}
+.base input{
+width: 250px;
+height: 32px;
+background: #FFFAFA;
+border-radius: 5px;
+border: none;
+}
+
